@@ -1,0 +1,5 @@
+cypress
+node_modules
+results
+*.har
+tests/e2e/screenshots

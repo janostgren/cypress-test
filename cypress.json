@@ -1,0 +1,10 @@
+{
+  "baseUrl": "http://ticketmonsterdev.apicasystem.com",
+  "integrationFolder": "tests/e2e/integration",
+  "--screenshotsFolder--": "tests/e2e/screenshots",
+  "fixturesFolder": "tests/e2e/fixtures",
+  "supportFile": "tests/e2e/support",
+  "pluginsFile": "tests/e2e/plugins",
+  "video": false
+  
+}
